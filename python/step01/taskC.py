@@ -1,6 +1,6 @@
 # Name: Adam Gavel
 # Date: 11/9/2026
-# Program Name: SEWD2
+# Program Name: Program Help Screen
 # Description: Gradebook version 1.0 help (-h) command output, written only in print.
 
 # Title

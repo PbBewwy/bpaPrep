@@ -1,6 +1,6 @@
 # Name: Adam Gavel
 # Date: 11/9/2026
-# Program Name: SEWD2
+# Program Name: Class Schedule Card
 # Description: Daily schedule for IT Academy, written only in print statements
 
 

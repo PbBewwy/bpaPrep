@@ -1,6 +1,6 @@
 # Name: Adam Gavel
 # Date: 11/9/2026
-# Program Name: SEWD2
+# Program Name: Food Truck Menu Board
 # Description: Menu board for the Byte Bites food truck, written only in print statements.
 
 # Title
