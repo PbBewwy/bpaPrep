@@ -1,4 +1,4 @@
 # Name: Adam Gavel
-# Date: 11/10/2026
-# Program Name: SEWD2
+# Date: 11/11/2026
+# Program Name: Paycheck Calculator
 # Description: 
